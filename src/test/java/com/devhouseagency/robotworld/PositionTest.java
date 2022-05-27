@@ -1,5 +1,6 @@
 package com.devhouseagency.robotworld;
 
+import com.devhouseagency.robotworld.utils.Position;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package com.devhouseagency.robotworld;
+package com.devhouseagency.robotworld.utils;
 
 public class Position {
     private final int x;
